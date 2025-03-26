@@ -13,6 +13,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dennixss&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennixss&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://camo.githubusercontent.com/bc3f27f72b9b0488e03d7e1ab32138f703a1dbc7eee0490ec45bf4f8337a7868/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f49516562524573474652586d6f2f67697068792e6769663f6369643d36633039623935323439386b747436363536336d67706e63627a6e6f7679366b716a6969756b7866326c76756c6165762665703d76315f676966735f736561726368267269643d67697068792e6769662663743d73)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dennixss&icon=0&color=4)](https://visitcount.itsvg.in)
 
